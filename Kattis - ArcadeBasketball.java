@@ -21,11 +21,6 @@ public class Maplab {
                winners.add(player);
            }
         }
-        
-        //test
-        //test2
-        //test3
-        
         if(winners.size() > 0){
         winners.stream().map(d-> d + " wins!").forEach(System.out::println);
         }else {
