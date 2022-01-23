@@ -1,0 +1,1 @@
+        int lines = a.nextInt();
