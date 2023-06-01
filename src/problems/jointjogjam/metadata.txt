@@ -1,0 +1,4 @@
+ID: jointjogjam
+URL: /problems/jointjogjam
+Difficulty: 1.7
+Name: Joint Jog Jam

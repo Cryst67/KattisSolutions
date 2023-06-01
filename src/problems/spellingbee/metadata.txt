@@ -1,0 +1,4 @@
+ID: spellingbee
+URL: /problems/spellingbee
+Difficulty: 2.0
+Name: Spelling Bee

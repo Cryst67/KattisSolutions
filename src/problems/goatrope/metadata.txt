@@ -1,0 +1,4 @@
+ID: goatrope
+URL: /problems/goatrope
+Difficulty: 1.6
+Name: Goat Rope

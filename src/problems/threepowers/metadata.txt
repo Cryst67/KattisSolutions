@@ -1,0 +1,4 @@
+ID: threepowers
+URL: /problems/threepowers
+Difficulty: 2.3
+Name: Three Powers

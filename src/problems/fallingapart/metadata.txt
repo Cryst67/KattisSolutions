@@ -1,0 +1,4 @@
+ID: fallingapart
+URL: /problems/fallingapart
+Difficulty: 1.7
+Name: Falling Apart

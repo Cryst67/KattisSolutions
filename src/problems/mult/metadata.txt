@@ -1,0 +1,4 @@
+ID: mult
+URL: /problems/mult
+Difficulty: 1.8
+Name: Mult!

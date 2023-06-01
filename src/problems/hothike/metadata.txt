@@ -1,0 +1,4 @@
+ID: hothike
+URL: /problems/hothike
+Difficulty: 2.1
+Name: Hot Hike

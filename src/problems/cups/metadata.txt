@@ -1,0 +1,4 @@
+ID: cups
+URL: /problems/cups
+Difficulty: 1.6
+Name: Stacking Cups

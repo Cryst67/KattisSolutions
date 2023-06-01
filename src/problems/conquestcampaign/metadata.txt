@@ -1,0 +1,4 @@
+ID: conquestcampaign
+URL: /problems/conquestcampaign
+Difficulty: 2.2
+Name: Conquest Campaign

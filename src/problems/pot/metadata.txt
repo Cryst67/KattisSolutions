@@ -1,0 +1,4 @@
+ID: pot
+URL: /problems/pot
+Difficulty: 1.4
+Name: Pot

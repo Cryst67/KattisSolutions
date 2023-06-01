@@ -1,0 +1,4 @@
+ID: faktor
+URL: /problems/faktor
+Difficulty: 1.4
+Name: Faktor

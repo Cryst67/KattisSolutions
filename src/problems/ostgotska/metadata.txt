@@ -1,0 +1,4 @@
+ID: ostgotska
+URL: /problems/ostgotska
+Difficulty: 1.7
+Name: Östgötska

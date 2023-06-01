@@ -1,0 +1,4 @@
+ID: armystrengthhard
+URL: /problems/armystrengthhard
+Difficulty: 2.1
+Name: Army Strength (Hard)

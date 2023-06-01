@@ -1,0 +1,4 @@
+ID: jollyjumpers
+URL: /problems/jollyjumpers
+Difficulty: 3.2
+Name: Jolly Jumpers

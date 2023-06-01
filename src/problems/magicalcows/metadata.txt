@@ -1,0 +1,4 @@
+ID: magicalcows
+URL: /problems/magicalcows
+Difficulty: 4.7
+Name: Magical Cows

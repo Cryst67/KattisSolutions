@@ -1,0 +1,4 @@
+ID: herman
+URL: /problems/herman
+Difficulty: 1.6
+Name: Herman

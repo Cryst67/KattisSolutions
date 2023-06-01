@@ -1,0 +1,4 @@
+ID: qaly
+URL: /problems/qaly
+Difficulty: 1.3
+Name: Quality-Adjusted Life-Year

@@ -1,0 +1,4 @@
+ID: anewalphabet
+URL: /problems/anewalphabet
+Difficulty: 1.8
+Name: A New Alphabet

@@ -1,0 +1,4 @@
+ID: pokerhand
+URL: /problems/pokerhand
+Difficulty: 1.5
+Name: Poker Hand

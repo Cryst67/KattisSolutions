@@ -1,0 +1,4 @@
+ID: vaccineefficacy
+URL: /problems/vaccineefficacy
+Difficulty: 2.7
+Name: Vaccine Efficacy

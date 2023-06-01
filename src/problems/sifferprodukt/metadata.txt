@@ -1,0 +1,4 @@
+ID: sifferprodukt
+URL: /problems/sifferprodukt
+Difficulty: 1.6
+Name: Digit Product

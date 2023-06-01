@@ -1,0 +1,4 @@
+ID: discdistrict
+URL: /problems/discdistrict
+Difficulty: 2.1
+Name: Disc District

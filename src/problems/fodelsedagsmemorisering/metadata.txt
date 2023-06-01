@@ -1,0 +1,4 @@
+ID: fodelsedagsmemorisering
+URL: /problems/fodelsedagsmemorisering
+Difficulty: 1.2 - 1.7
+Name: Birthday Memorization

@@ -1,0 +1,4 @@
+ID: harshadnumbers
+URL: /problems/harshadnumbers
+Difficulty: 1.6
+Name: Harshad Numbers

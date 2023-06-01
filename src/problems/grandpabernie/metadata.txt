@@ -1,0 +1,4 @@
+ID: grandpabernie
+URL: /problems/grandpabernie
+Difficulty: 3.2
+Name: Grandpa Bernie

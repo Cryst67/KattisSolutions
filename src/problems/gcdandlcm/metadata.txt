@@ -1,0 +1,4 @@
+ID: gcdandlcm
+URL: /problems/gcdandlcm
+Difficulty: 5.2
+Name: GCD and LCM

@@ -1,0 +1,4 @@
+ID: cinema2
+URL: /problems/cinema2
+Difficulty: 1.8
+Name: Cinema Crowds 2

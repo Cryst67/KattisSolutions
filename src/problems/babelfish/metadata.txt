@@ -1,0 +1,4 @@
+ID: babelfish
+URL: /problems/babelfish
+Difficulty: 2.5
+Name: Babelfish

@@ -1,0 +1,4 @@
+ID: deathknight
+URL: /problems/deathknight
+Difficulty: 1.6
+Name: Death Knight Hero

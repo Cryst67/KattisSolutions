@@ -1,0 +1,4 @@
+ID: methodicmultiplication
+URL: /problems/methodicmultiplication
+Difficulty: 1.6
+Name: Methodic Multiplication

@@ -1,0 +1,4 @@
+ID: positivedivisors
+URL: /problems/positivedivisors
+Difficulty: 3.4
+Name: Positive Divisors

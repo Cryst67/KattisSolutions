@@ -1,0 +1,4 @@
+ID: nothanks
+URL: /problems/nothanks
+Difficulty: 2.0
+Name: No Thanks!

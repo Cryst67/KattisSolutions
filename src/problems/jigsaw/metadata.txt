@@ -1,0 +1,4 @@
+ID: jigsaw
+URL: /problems/jigsaw
+Difficulty: 4.6
+Name: Jigsaw

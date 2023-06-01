@@ -1,0 +1,4 @@
+ID: icpcawards
+URL: /problems/icpcawards
+Difficulty: 1.6
+Name: ICPC Awards

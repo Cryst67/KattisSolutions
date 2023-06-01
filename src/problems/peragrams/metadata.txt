@@ -1,0 +1,4 @@
+ID: peragrams
+URL: /problems/peragrams
+Difficulty: 2.0
+Name: Peragrams

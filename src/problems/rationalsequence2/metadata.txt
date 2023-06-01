@@ -1,0 +1,4 @@
+ID: rationalsequence2
+URL: /problems/rationalsequence2
+Difficulty: 1.6
+Name: A Rational Sequence 2

@@ -1,0 +1,4 @@
+ID: skocimis
+URL: /problems/skocimis
+Difficulty: 1.6
+Name: Skocimis

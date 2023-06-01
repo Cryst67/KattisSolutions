@@ -1,0 +1,4 @@
+ID: oddmanout
+URL: /problems/oddmanout
+Difficulty: 1.5
+Name: Odd Man Out

@@ -1,0 +1,4 @@
+ID: encodedmessage
+URL: /problems/encodedmessage
+Difficulty: 1.5
+Name: Encoded Message

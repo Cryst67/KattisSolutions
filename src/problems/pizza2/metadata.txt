@@ -1,0 +1,4 @@
+ID: pizza2
+URL: /problems/pizza2
+Difficulty: 1.8
+Name: Pizza Crust

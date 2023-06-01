@@ -1,0 +1,4 @@
+ID: greedilyincreasing
+URL: /problems/greedilyincreasing
+Difficulty: 2.1
+Name: Greedily Increasing Subsequence

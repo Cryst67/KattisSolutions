@@ -1,0 +1,4 @@
+ID: haypoints
+URL: /problems/haypoints
+Difficulty: 2.0
+Name: Hay Points

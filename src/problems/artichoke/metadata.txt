@@ -1,0 +1,4 @@
+ID: artichoke
+URL: /problems/artichoke
+Difficulty: 2.6
+Name: Amalgamated Artichokes

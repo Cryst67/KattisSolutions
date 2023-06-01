@@ -1,0 +1,4 @@
+ID: theplank
+URL: /problems/theplank
+Difficulty: 1.7 - 1.8
+Name: The Plank

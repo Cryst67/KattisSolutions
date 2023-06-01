@@ -1,0 +1,4 @@
+ID: liquidassets
+URL: /problems/liquidassets
+Difficulty: 3.5
+Name: Liquid Assets

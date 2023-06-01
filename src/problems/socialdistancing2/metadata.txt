@@ -1,0 +1,4 @@
+ID: socialdistancing2
+URL: /problems/socialdistancing2
+Difficulty: 2.3
+Name: Social Distancing

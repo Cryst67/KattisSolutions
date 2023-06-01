@@ -1,0 +1,4 @@
+ID: dicegame
+URL: /problems/dicegame
+Difficulty: 1.6
+Name: Dice Game

@@ -1,0 +1,4 @@
+ID: awkwardparty
+URL: /problems/awkwardparty
+Difficulty: 3.0
+Name: Awkward Party

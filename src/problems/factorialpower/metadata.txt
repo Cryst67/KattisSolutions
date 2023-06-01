@@ -1,0 +1,4 @@
+ID: factorialpower
+URL: /problems/factorialpower
+Difficulty: 5.1
+Name: Factorial Power

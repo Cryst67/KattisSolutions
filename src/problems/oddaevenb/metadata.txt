@@ -1,0 +1,4 @@
+ID: oddaevenb
+URL: /problems/oddaevenb
+Difficulty: 5.0
+Name: Odd A's, Even B's

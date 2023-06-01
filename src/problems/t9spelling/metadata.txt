@@ -1,0 +1,4 @@
+ID: t9spelling
+URL: /problems/t9spelling
+Difficulty: 1.8
+Name: T9 Spelling

@@ -1,0 +1,4 @@
+ID: loorolls
+URL: /problems/loorolls
+Difficulty: 1.7
+Name: Loo Rolls

@@ -1,0 +1,4 @@
+ID: combinatorialstanleycup
+URL: /problems/combinatorialstanleycup
+Difficulty: 3.0
+Name: Combinatorial Stanley Cup

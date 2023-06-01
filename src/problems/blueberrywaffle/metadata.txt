@@ -1,0 +1,4 @@
+ID: blueberrywaffle
+URL: /problems/blueberrywaffle
+Difficulty: 1.6
+Name: Blueberry Waffle

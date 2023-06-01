@@ -1,0 +1,4 @@
+ID: zamka
+URL: /problems/zamka
+Difficulty: 1.5
+Name: Zamka

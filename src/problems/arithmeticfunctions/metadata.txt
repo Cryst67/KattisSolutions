@@ -1,0 +1,4 @@
+ID: arithmeticfunctions
+URL: /problems/arithmeticfunctions
+Difficulty: 1.7
+Name: Arithmetic Functions

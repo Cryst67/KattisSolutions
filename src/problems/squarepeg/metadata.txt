@@ -1,0 +1,4 @@
+ID: squarepeg
+URL: /problems/squarepeg
+Difficulty: 1.7
+Name: Square Peg

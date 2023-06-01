@@ -1,0 +1,4 @@
+ID: countdoubles
+URL: /problems/countdoubles
+Difficulty: 2.0
+Name: Count Doubles

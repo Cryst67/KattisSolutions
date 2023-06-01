@@ -1,0 +1,4 @@
+ID: cocktail
+URL: /problems/cocktail
+Difficulty: 2.7
+Name: A Furious Cocktail

@@ -1,0 +1,4 @@
+ID: nastyhacks
+URL: /problems/nastyhacks
+Difficulty: 1.4
+Name: Nasty Hacks

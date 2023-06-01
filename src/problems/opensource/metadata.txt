@@ -1,0 +1,4 @@
+ID: opensource
+URL: /problems/opensource
+Difficulty: 3.2
+Name: Open Source

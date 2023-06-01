@@ -1,0 +1,4 @@
+ID: oddities
+URL: /problems/oddities
+Difficulty: 1.5
+Name: Oddities

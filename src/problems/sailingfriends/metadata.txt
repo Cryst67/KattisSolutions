@@ -1,0 +1,4 @@
+ID: sailingfriends
+URL: /problems/sailingfriends
+Difficulty: 3.8
+Name: Sailing Friends

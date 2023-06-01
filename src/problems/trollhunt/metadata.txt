@@ -1,0 +1,4 @@
+ID: trollhunt
+URL: /problems/trollhunt
+Difficulty: 2.4
+Name: Troll Hunt

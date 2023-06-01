@@ -1,0 +1,4 @@
+ID: babybites
+URL: /problems/babybites
+Difficulty: 1.9
+Name: Baby Bites

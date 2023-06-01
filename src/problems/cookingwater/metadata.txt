@@ -1,0 +1,4 @@
+ID: cookingwater
+URL: /problems/cookingwater
+Difficulty: 2.0
+Name: Cooking Water

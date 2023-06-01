@@ -1,0 +1,4 @@
+ID: peasoup
+URL: /problems/peasoup
+Difficulty: 3.0
+Name: Pea Soup and Pancakes

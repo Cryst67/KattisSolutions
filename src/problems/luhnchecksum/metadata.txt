@@ -1,0 +1,4 @@
+ID: luhnchecksum
+URL: /problems/luhnchecksum
+Difficulty: 1.7
+Name: Luhn's Checksum Algorithm

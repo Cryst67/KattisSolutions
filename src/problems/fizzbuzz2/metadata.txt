@@ -1,0 +1,4 @@
+ID: fizzbuzz2
+URL: /problems/fizzbuzz2
+Difficulty: 3.2
+Name: FizzBuzz

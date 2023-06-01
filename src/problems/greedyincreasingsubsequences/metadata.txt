@@ -1,0 +1,4 @@
+ID: greedyincreasingsubsequences
+URL: /problems/greedyincreasingsubsequences
+Difficulty: 5.7
+Name: Greedy Increasing Subsequences

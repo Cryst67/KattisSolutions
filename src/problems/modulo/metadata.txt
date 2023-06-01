@@ -1,0 +1,4 @@
+ID: modulo
+URL: /problems/modulo
+Difficulty: 1.6
+Name: Modulo

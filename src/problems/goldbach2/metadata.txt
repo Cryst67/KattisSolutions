@@ -1,0 +1,4 @@
+ID: goldbach2
+URL: /problems/goldbach2
+Difficulty: 2.2
+Name: Goldbach's Conjecture

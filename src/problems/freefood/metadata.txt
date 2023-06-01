@@ -1,0 +1,4 @@
+ID: freefood
+URL: /problems/freefood
+Difficulty: 1.6
+Name: Free Food

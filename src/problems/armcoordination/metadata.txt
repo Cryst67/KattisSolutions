@@ -1,0 +1,4 @@
+ID: armcoordination
+URL: /problems/armcoordination
+Difficulty: 1.7
+Name: Arm Coordination

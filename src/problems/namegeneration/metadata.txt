@@ -1,0 +1,4 @@
+ID: namegeneration
+URL: /problems/namegeneration
+Difficulty: 2.3
+Name: Name Generation

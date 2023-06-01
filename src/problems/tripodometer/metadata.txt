@@ -1,0 +1,4 @@
+ID: tripodometer
+URL: /problems/tripodometer
+Difficulty: 2.1
+Name: Trip Odometer

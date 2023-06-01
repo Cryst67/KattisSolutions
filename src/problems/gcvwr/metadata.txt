@@ -1,0 +1,4 @@
+ID: gcvwr
+URL: /problems/gcvwr
+Difficulty: 1.4
+Name: GCVWR

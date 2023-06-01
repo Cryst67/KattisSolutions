@@ -1,0 +1,4 @@
+ID: hermits
+URL: /problems/hermits
+Difficulty: 3.3
+Name: Hermits

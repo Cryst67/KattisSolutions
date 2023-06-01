@@ -1,0 +1,4 @@
+ID: electricaloutlets
+URL: /problems/electricaloutlets
+Difficulty: 1.4
+Name: Electrical Outlets

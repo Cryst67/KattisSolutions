@@ -1,0 +1,4 @@
+ID: longestprimesum
+URL: /problems/longestprimesum
+Difficulty: 2.3
+Name: Longest Prime Sum

@@ -1,0 +1,4 @@
+ID: buka
+URL: /problems/buka
+Difficulty: 2.1
+Name: Buka

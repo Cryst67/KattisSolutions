@@ -1,0 +1,4 @@
+ID: drunkvigenere
+URL: /problems/drunkvigenere
+Difficulty: 1.6
+Name: Drunk Vigenère

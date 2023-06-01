@@ -1,0 +1,4 @@
+ID: datum
+URL: /problems/datum
+Difficulty: 1.5
+Name: Datum

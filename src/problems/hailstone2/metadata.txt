@@ -1,0 +1,4 @@
+ID: hailstone2
+URL: /problems/hailstone2
+Difficulty: 1.8
+Name: Hailstone Sequences

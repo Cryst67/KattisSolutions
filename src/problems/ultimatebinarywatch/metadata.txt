@@ -1,0 +1,4 @@
+ID: ultimatebinarywatch
+URL: /problems/ultimatebinarywatch
+Difficulty: 1.7
+Name: Ultimate Binary Watch

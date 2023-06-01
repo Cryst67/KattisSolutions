@@ -1,0 +1,4 @@
+ID: bubbletea
+URL: /problems/bubbletea
+Difficulty: 2.6
+Name: Delicious Bubble Tea

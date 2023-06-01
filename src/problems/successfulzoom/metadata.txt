@@ -1,0 +1,4 @@
+ID: successfulzoom
+URL: /problems/successfulzoom
+Difficulty: 2.2
+Name: Successful Zoom

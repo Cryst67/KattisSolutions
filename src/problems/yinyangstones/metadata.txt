@@ -1,0 +1,4 @@
+ID: yinyangstones
+URL: /problems/yinyangstones
+Difficulty: 1.7
+Name: Yin and Yang Stones

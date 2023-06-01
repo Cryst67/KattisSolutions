@@ -1,0 +1,4 @@
+ID: triarea
+URL: /problems/triarea
+Difficulty: 1.4
+Name: Triangle Area

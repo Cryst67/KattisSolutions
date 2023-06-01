@@ -1,0 +1,4 @@
+ID: unlockpattern
+URL: /problems/unlockpattern
+Difficulty: 1.7
+Name: Unlock Pattern

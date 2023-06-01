@@ -1,0 +1,4 @@
+ID: digits
+URL: /problems/digits
+Difficulty: 3.3
+Name: Digits

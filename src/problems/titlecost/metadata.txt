@@ -1,0 +1,4 @@
+ID: titlecost
+URL: /problems/titlecost
+Difficulty: 1.7
+Name: Title Cost

@@ -1,0 +1,4 @@
+ID: greedypolygons
+URL: /problems/greedypolygons
+Difficulty: 1.6
+Name: Greedy Polygons

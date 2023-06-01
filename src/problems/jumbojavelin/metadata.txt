@@ -1,0 +1,4 @@
+ID: jumbojavelin
+URL: /problems/jumbojavelin
+Difficulty: 1.3
+Name: Jumbo Javelin

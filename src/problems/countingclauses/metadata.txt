@@ -1,0 +1,4 @@
+ID: countingclauses
+URL: /problems/countingclauses
+Difficulty: 1.6
+Name: Counting Clauses

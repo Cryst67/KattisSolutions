@@ -1,0 +1,4 @@
+ID: thanos
+URL: /problems/thanos
+Difficulty: 3.0
+Name: Thanos

@@ -1,0 +1,4 @@
+ID: stararrangements
+URL: /problems/stararrangements
+Difficulty: 1.7
+Name: Star Arrangements

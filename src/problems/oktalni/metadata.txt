@@ -1,0 +1,4 @@
+ID: oktalni
+URL: /problems/oktalni
+Difficulty: 2.0
+Name: Oktalni

@@ -1,0 +1,4 @@
+ID: eventplanning
+URL: /problems/eventplanning
+Difficulty: 2.2
+Name: Event Planning

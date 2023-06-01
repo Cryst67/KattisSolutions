@@ -1,0 +1,4 @@
+ID: kafkaesque
+URL: /problems/kafkaesque
+Difficulty: 2.0
+Name: Kafkaesque

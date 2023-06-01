@@ -1,0 +1,4 @@
+ID: relocation
+URL: /problems/relocation
+Difficulty: 1.5
+Name: Relocation

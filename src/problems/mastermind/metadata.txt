@@ -1,0 +1,4 @@
+ID: mastermind
+URL: /problems/mastermind
+Difficulty: 2.8
+Name: Mastering Mastermind

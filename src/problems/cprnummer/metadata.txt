@@ -1,0 +1,4 @@
+ID: cprnummer
+URL: /problems/cprnummer
+Difficulty: 1.4
+Name: Cpr-nummer

@@ -1,0 +1,4 @@
+ID: fiftyshades
+URL: /problems/fiftyshades
+Difficulty: 1.5
+Name: Fifty Shades of Pink

@@ -1,0 +1,4 @@
+ID: pervasiveheartmonitor
+URL: /problems/pervasiveheartmonitor
+Difficulty: 1.8
+Name: Pervasive Heart Monitor

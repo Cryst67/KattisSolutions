@@ -1,0 +1,4 @@
+ID: eveningout2
+URL: /problems/eveningout2
+Difficulty: 4.9
+Name: Evening Out 2

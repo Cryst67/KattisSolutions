@@ -1,0 +1,4 @@
+ID: baconeggsandspam
+URL: /problems/baconeggsandspam
+Difficulty: 1.9
+Name: Bacon, Eggs, and Spam

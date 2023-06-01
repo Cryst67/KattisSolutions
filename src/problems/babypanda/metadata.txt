@@ -1,0 +1,4 @@
+ID: babypanda
+URL: /problems/babypanda
+Difficulty: 2.2
+Name: Baby Panda

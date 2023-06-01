@@ -1,0 +1,4 @@
+ID: color
+URL: /problems/color
+Difficulty: 2.5
+Name: Coloring Socks

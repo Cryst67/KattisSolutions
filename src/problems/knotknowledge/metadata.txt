@@ -1,0 +1,4 @@
+ID: knotknowledge
+URL: /problems/knotknowledge
+Difficulty: 1.5
+Name: Knot Knowledge

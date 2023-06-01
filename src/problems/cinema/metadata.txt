@@ -1,0 +1,4 @@
+ID: cinema
+URL: /problems/cinema
+Difficulty: 2.2
+Name: Cinema Crowds

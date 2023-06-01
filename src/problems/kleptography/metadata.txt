@@ -1,0 +1,4 @@
+ID: kleptography
+URL: /problems/kleptography
+Difficulty: 1.6
+Name: Kleptography

@@ -1,0 +1,4 @@
+ID: fromatob
+URL: /problems/fromatob
+Difficulty: 2.4
+Name: From A to B

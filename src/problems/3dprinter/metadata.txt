@@ -1,0 +1,4 @@
+ID: 3dprinter
+URL: /problems/3dprinter
+Difficulty: 2.8
+Name: 3D Printed Statues

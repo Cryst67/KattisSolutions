@@ -1,0 +1,4 @@
+ID: symmetricorder
+URL: /problems/symmetricorder
+Difficulty: 1.6
+Name: Symmetric Order

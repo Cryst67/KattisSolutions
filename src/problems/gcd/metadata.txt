@@ -1,0 +1,4 @@
+ID: gcd
+URL: /problems/gcd
+Difficulty: 1.8
+Name: GCD

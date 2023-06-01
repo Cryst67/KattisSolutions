@@ -1,0 +1,4 @@
+ID: speeding
+URL: /problems/speeding
+Difficulty: 1.6
+Name: Speeding

@@ -1,0 +1,4 @@
+ID: battlesimulation
+URL: /problems/battlesimulation
+Difficulty: 3.0
+Name: Battle Simulation

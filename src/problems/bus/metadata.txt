@@ -1,0 +1,4 @@
+ID: bus
+URL: /problems/bus
+Difficulty: 1.6
+Name: Bus

@@ -1,0 +1,4 @@
+ID: ofugsnuid
+URL: /problems/ofugsnuid
+Difficulty: 1.2 - 1.5
+Name: Reverse

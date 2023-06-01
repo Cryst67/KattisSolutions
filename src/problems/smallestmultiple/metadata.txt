@@ -1,0 +1,4 @@
+ID: smallestmultiple
+URL: /problems/smallestmultiple
+Difficulty: 3.3
+Name: Smallest Multiple

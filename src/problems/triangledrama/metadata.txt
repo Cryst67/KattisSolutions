@@ -1,0 +1,4 @@
+ID: triangledrama
+URL: /problems/triangledrama
+Difficulty: 2.9
+Name: Triangle Drama

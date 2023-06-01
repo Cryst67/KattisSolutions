@@ -1,0 +1,4 @@
+ID: conteststruggles
+URL: /problems/conteststruggles
+Difficulty: 2.2
+Name: Contest Struggles

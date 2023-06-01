@@ -1,0 +1,4 @@
+ID: judgingmoose
+URL: /problems/judgingmoose
+Difficulty: 1.5
+Name: Judging Moose

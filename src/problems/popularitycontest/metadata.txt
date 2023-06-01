@@ -1,0 +1,4 @@
+ID: popularitycontest
+URL: /problems/popularitycontest
+Difficulty: 2.0
+Name: Popularity Contest

@@ -1,0 +1,4 @@
+ID: thisaintyourgrandpascheckerboard
+URL: /problems/thisaintyourgrandpascheckerboard
+Difficulty: 1.8
+Name: This Ain't Your Grandpa's Checkerboard

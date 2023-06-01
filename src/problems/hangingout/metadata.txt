@@ -1,0 +1,4 @@
+ID: hangingout
+URL: /problems/hangingout
+Difficulty: 1.6
+Name: Hanging Out on the Terrace

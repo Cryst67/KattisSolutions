@@ -1,0 +1,4 @@
+ID: climbingworm
+URL: /problems/climbingworm
+Difficulty: 2.4
+Name: Climbing Worm

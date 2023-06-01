@@ -1,0 +1,4 @@
+ID: drillsergeant
+URL: /problems/drillsergeant
+Difficulty: 5.9
+Name: Drill Sergeant

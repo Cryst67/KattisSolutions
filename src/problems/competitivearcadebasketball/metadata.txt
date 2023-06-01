@@ -1,0 +1,4 @@
+ID: competitivearcadebasketball
+URL: /problems/competitivearcadebasketball
+Difficulty: 2.3
+Name: Competitive Arcade Basketball

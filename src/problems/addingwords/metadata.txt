@@ -1,0 +1,4 @@
+ID: addingwords
+URL: /problems/addingwords
+Difficulty: 4.0
+Name: Adding Words

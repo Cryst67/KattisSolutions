@@ -1,0 +1,4 @@
+ID: shopaholic
+URL: /problems/shopaholic
+Difficulty: 2.2
+Name: Shopaholic

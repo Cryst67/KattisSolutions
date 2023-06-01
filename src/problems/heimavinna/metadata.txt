@@ -1,0 +1,4 @@
+ID: heimavinna
+URL: /problems/heimavinna
+Difficulty: 1.1 - 1.6
+Name: Homework

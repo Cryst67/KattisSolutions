@@ -1,0 +1,4 @@
+ID: conformity
+URL: /problems/conformity
+Difficulty: 1.6
+Name: Conformity

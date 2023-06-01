@@ -1,0 +1,4 @@
+ID: icouldhavewon
+URL: /problems/icouldhavewon
+Difficulty: 3.2
+Name: I Could Have Won

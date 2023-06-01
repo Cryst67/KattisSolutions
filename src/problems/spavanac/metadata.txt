@@ -1,0 +1,4 @@
+ID: spavanac
+URL: /problems/spavanac
+Difficulty: 1.4
+Name: Spavanac

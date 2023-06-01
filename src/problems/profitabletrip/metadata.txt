@@ -1,0 +1,4 @@
+ID: profitabletrip
+URL: /problems/profitabletrip
+Difficulty: 6.2
+Name: Profitable Trip

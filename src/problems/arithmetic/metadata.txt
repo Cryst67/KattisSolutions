@@ -1,0 +1,4 @@
+ID: arithmetic
+URL: /problems/arithmetic
+Difficulty: 4.1
+Name: Arithmetic

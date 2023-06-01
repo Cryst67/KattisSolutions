@@ -1,0 +1,4 @@
+ID: pet
+URL: /problems/pet
+Difficulty: 1.4
+Name: Pet

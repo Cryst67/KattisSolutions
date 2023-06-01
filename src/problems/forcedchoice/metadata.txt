@@ -1,0 +1,4 @@
+ID: forcedchoice
+URL: /problems/forcedchoice
+Difficulty: 1.5
+Name: Forced Choice

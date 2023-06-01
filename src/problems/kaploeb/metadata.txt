@@ -1,0 +1,4 @@
+ID: kaploeb
+URL: /problems/kaploeb
+Difficulty: 2.2 - 2.6
+Name: Kapløb

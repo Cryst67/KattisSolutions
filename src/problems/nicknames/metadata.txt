@@ -1,0 +1,4 @@
+ID: nicknames
+URL: /problems/nicknames
+Difficulty: 4.0
+Name: Nicknames

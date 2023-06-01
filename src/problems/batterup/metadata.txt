@@ -1,0 +1,4 @@
+ID: batterup
+URL: /problems/batterup
+Difficulty: 1.3
+Name: Batter Up

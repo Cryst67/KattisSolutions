@@ -1,0 +1,4 @@
+ID: gandalfsspell
+URL: /problems/gandalfsspell
+Difficulty: 2.1
+Name: Gandalf's Spell

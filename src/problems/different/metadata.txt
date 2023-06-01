@@ -1,0 +1,4 @@
+ID: different
+URL: /problems/different
+Difficulty: 2.8
+Name: A Different Problem

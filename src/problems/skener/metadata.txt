@@ -1,0 +1,4 @@
+ID: skener
+URL: /problems/skener
+Difficulty: 1.6
+Name: Skener

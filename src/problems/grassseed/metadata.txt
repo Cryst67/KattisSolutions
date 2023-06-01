@@ -1,0 +1,4 @@
+ID: grassseed
+URL: /problems/grassseed
+Difficulty: 1.4
+Name: Grass Seed Inc.

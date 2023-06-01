@@ -1,0 +1,4 @@
+ID: jobexpenses
+URL: /problems/jobexpenses
+Difficulty: 1.5
+Name: Job Expenses

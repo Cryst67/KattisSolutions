@@ -1,0 +1,4 @@
+ID: marswindow
+URL: /problems/marswindow
+Difficulty: 2.2
+Name: Mars Window

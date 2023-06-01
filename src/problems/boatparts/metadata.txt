@@ -1,0 +1,4 @@
+ID: boatparts
+URL: /problems/boatparts
+Difficulty: 1.6
+Name: Boat Parts

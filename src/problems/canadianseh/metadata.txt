@@ -1,0 +1,4 @@
+ID: canadianseh
+URL: /problems/canadianseh
+Difficulty: 1.6
+Name: Canadians, eh?

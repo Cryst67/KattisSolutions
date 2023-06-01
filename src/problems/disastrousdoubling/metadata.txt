@@ -1,0 +1,4 @@
+ID: disastrousdoubling
+URL: /problems/disastrousdoubling
+Difficulty: 3.9
+Name: Disastrous Doubling

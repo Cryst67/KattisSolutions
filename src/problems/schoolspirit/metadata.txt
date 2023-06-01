@@ -1,0 +1,4 @@
+ID: schoolspirit
+URL: /problems/schoolspirit
+Difficulty: 1.7
+Name: School Spirit

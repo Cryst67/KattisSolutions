@@ -1,0 +1,4 @@
+ID: knightpacking
+URL: /problems/knightpacking
+Difficulty: 1.3
+Name: Knight Packing

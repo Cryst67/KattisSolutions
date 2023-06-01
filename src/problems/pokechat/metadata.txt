@@ -1,0 +1,4 @@
+ID: pokechat
+URL: /problems/pokechat
+Difficulty: 1.4
+Name: Pokechat

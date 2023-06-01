@@ -1,0 +1,4 @@
+ID: provincesandgold
+URL: /problems/provincesandgold
+Difficulty: 1.5
+Name: Provinces and Gold

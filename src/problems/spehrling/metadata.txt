@@ -1,0 +1,4 @@
+ID: spehrling
+URL: /problems/spehrling
+Difficulty: 2.3
+Name: Sperhling

@@ -1,0 +1,4 @@
+ID: differentdistances
+URL: /problems/differentdistances
+Difficulty: 1.7
+Name: Different Distances

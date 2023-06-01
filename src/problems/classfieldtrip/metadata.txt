@@ -1,0 +1,4 @@
+ID: classfieldtrip
+URL: /problems/classfieldtrip
+Difficulty: 1.4
+Name: Class Field Trip

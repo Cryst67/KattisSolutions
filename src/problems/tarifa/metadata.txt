@@ -1,0 +1,4 @@
+ID: tarifa
+URL: /problems/tarifa
+Difficulty: 1.4
+Name: Tarifa

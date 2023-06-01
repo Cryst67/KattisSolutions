@@ -1,0 +1,4 @@
+ID: tripplanning
+URL: /problems/tripplanning
+Difficulty: 3.3
+Name: Trip Planning

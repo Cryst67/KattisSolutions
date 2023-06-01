@@ -1,0 +1,4 @@
+ID: ptice
+URL: /problems/ptice
+Difficulty: 1.6
+Name: Ptice

@@ -1,0 +1,4 @@
+ID: divisorshuffle
+URL: /problems/divisorshuffle
+Difficulty: 5.6
+Name: Divisor Shuffle

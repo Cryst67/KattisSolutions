@@ -1,0 +1,4 @@
+ID: sok
+URL: /problems/sok
+Difficulty: 1.7
+Name: Sok

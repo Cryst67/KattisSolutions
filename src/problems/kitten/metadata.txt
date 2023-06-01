@@ -1,0 +1,4 @@
+ID: kitten
+URL: /problems/kitten
+Difficulty: 1.7
+Name: Kitten on a Tree

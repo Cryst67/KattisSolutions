@@ -1,0 +1,4 @@
+ID: quiteaproblem
+URL: /problems/quiteaproblem
+Difficulty: 2.2
+Name: Quite a Problem

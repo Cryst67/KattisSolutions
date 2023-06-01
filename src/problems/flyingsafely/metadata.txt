@@ -1,0 +1,4 @@
+ID: flyingsafely
+URL: /problems/flyingsafely
+Difficulty: 1.7
+Name: Flying Safely

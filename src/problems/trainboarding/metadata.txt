@@ -1,0 +1,4 @@
+ID: trainboarding
+URL: /problems/trainboarding
+Difficulty: 3.7
+Name: Train Boarding

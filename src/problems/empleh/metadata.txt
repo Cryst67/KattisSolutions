@@ -1,0 +1,4 @@
+ID: empleh
+URL: /problems/empleh
+Difficulty: 1.7
+Name: Emag Eht Htiw Em Pleh

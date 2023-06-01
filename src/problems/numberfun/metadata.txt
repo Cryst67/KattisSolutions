@@ -1,0 +1,4 @@
+ID: numberfun
+URL: /problems/numberfun
+Difficulty: 1.5
+Name: Number Fun

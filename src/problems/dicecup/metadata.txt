@@ -1,0 +1,4 @@
+ID: dicecup
+URL: /problems/dicecup
+Difficulty: 1.4
+Name: Dice Cup

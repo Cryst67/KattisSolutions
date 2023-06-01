@@ -1,0 +1,4 @@
+ID: brokenswords
+URL: /problems/brokenswords
+Difficulty: 1.8
+Name: Broken Swords

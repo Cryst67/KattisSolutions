@@ -1,0 +1,4 @@
+ID: divisorcounts
+URL: /problems/divisorcounts
+Difficulty: 5.8
+Name: Divisor Counts

@@ -1,0 +1,4 @@
+ID: pairingsocks
+URL: /problems/pairingsocks
+Difficulty: 2.7
+Name: Pairing Socks

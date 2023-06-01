@@ -1,0 +1,4 @@
+ID: height
+URL: /problems/height
+Difficulty: 2.2
+Name: Height Ordering

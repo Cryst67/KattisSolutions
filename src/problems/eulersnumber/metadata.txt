@@ -1,0 +1,4 @@
+ID: eulersnumber
+URL: /problems/eulersnumber
+Difficulty: 2.3
+Name: Euler's Number

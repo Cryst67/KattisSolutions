@@ -1,0 +1,4 @@
+ID: secretmessage
+URL: /problems/secretmessage
+Difficulty: 1.8
+Name: Secret Message

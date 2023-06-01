@@ -1,0 +1,4 @@
+ID: shiritori
+URL: /problems/shiritori
+Difficulty: 2.4
+Name: Shiritori

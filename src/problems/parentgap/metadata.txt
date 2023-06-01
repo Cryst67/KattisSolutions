@@ -1,0 +1,4 @@
+ID: parentgap
+URL: /problems/parentgap
+Difficulty: 2.5
+Name: Parent Gap

@@ -1,0 +1,4 @@
+ID: cyaniderivers
+URL: /problems/cyaniderivers
+Difficulty: 2.2
+Name: Cyanide Rivers

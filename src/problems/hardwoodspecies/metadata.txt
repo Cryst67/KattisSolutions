@@ -1,0 +1,4 @@
+ID: hardwoodspecies
+URL: /problems/hardwoodspecies
+Difficulty: 2.6
+Name: Hardwood Species

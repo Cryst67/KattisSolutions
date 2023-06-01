@@ -1,0 +1,4 @@
+ID: sidewayssorting
+URL: /problems/sidewayssorting
+Difficulty: 2.3
+Name: Sideways Sorting

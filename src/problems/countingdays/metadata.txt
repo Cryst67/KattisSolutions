@@ -1,0 +1,4 @@
+ID: countingdays
+URL: /problems/countingdays
+Difficulty: 2.8
+Name: Counting Days

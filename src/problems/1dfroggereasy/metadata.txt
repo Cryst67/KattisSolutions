@@ -1,0 +1,4 @@
+ID: 1dfroggereasy
+URL: /problems/1dfroggereasy
+Difficulty: 3.7
+Name: 1-D Frogger (Easy)

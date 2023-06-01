@@ -1,0 +1,4 @@
+ID: architecture
+URL: /problems/architecture
+Difficulty: 2.7
+Name: Architecture

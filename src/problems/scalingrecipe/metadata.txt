@@ -1,0 +1,4 @@
+ID: scalingrecipe
+URL: /problems/scalingrecipe
+Difficulty: 1.8
+Name: Scaling Recipe

@@ -1,0 +1,4 @@
+ID: marathon
+URL: /problems/marathon
+Difficulty: 6.2
+Name: Marathon

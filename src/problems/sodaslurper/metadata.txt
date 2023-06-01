@@ -1,0 +1,4 @@
+ID: sodaslurper
+URL: /problems/sodaslurper
+Difficulty: 1.7
+Name: Soda Slurper

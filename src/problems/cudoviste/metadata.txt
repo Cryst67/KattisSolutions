@@ -1,0 +1,4 @@
+ID: cudoviste
+URL: /problems/cudoviste
+Difficulty: 1.4
+Name: Cudoviste

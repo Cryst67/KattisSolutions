@@ -1,0 +1,4 @@
+ID: massivecardgame
+URL: /problems/massivecardgame
+Difficulty: 2.9
+Name: Massive Card Game

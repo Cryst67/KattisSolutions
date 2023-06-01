@@ -1,0 +1,4 @@
+ID: drinkingsong
+URL: /problems/drinkingsong
+Difficulty: 2.3
+Name: Drinking Song

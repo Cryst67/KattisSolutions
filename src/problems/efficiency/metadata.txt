@@ -1,0 +1,4 @@
+ID: efficiency
+URL: /problems/efficiency
+Difficulty: 4.2
+Name: Efficiency

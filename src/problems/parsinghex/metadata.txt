@@ -1,0 +1,4 @@
+ID: parsinghex
+URL: /problems/parsinghex
+Difficulty: 2.6
+Name: Parsing Hex

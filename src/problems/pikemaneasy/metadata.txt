@@ -1,0 +1,4 @@
+ID: pikemaneasy
+URL: /problems/pikemaneasy
+Difficulty: 2.7
+Name: A Vicious Pikeman (Easy)

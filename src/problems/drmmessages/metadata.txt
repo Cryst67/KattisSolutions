@@ -1,0 +1,4 @@
+ID: drmmessages
+URL: /problems/drmmessages
+Difficulty: 1.5
+Name: DRM Messages

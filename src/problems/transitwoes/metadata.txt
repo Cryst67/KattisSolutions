@@ -1,0 +1,4 @@
+ID: transitwoes
+URL: /problems/transitwoes
+Difficulty: 1.5
+Name: Transit Woes

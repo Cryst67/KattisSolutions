@@ -1,0 +1,4 @@
+ID: howl
+URL: /problems/howl
+Difficulty: 2.0
+Name: Howl

@@ -1,0 +1,4 @@
+ID: geneblock
+URL: /problems/geneblock
+Difficulty: 2.2
+Name: Gene Block

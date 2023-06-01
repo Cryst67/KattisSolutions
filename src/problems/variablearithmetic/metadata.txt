@@ -1,0 +1,4 @@
+ID: variablearithmetic
+URL: /problems/variablearithmetic
+Difficulty: 2.5
+Name: Variable Arithmetic

@@ -1,0 +1,4 @@
+ID: erase
+URL: /problems/erase
+Difficulty: 1.7
+Name: Erase Securely

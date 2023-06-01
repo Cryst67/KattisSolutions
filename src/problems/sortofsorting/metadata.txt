@@ -1,0 +1,4 @@
+ID: sortofsorting
+URL: /problems/sortofsorting
+Difficulty: 2.1
+Name: Sort of Sorting

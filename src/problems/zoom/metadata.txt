@@ -1,0 +1,4 @@
+ID: zoom
+URL: /problems/zoom
+Difficulty: 1.7
+Name: Zoom

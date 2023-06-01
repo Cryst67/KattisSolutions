@@ -1,0 +1,4 @@
+ID: chocolatedivision
+URL: /problems/chocolatedivision
+Difficulty: 2.0
+Name: Chocolate Division

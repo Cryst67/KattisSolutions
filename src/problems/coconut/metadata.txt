@@ -1,0 +1,4 @@
+ID: coconut
+URL: /problems/coconut
+Difficulty: 1.6
+Name: Coconut Splat

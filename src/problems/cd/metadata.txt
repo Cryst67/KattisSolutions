@@ -1,0 +1,4 @@
+ID: cd
+URL: /problems/cd
+Difficulty: 4.6
+Name: CD

@@ -1,0 +1,4 @@
+ID: cutthenegativity
+URL: /problems/cutthenegativity
+Difficulty: 1.4
+Name: Cut the Negativity

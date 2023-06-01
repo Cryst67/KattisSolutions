@@ -1,0 +1,4 @@
+ID: pivot
+URL: /problems/pivot
+Difficulty: 2.5
+Name: Pivot

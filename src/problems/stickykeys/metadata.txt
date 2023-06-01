@@ -1,0 +1,4 @@
+ID: stickykeys
+URL: /problems/stickykeys
+Difficulty: 1.5
+Name: Sticky Keys

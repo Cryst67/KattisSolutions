@@ -1,0 +1,4 @@
+ID: reversebinary
+URL: /problems/reversebinary
+Difficulty: 1.5
+Name: Reversed Binary Numbers

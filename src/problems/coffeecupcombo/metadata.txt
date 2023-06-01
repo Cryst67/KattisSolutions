@@ -1,0 +1,4 @@
+ID: coffeecupcombo
+URL: /problems/coffeecupcombo
+Difficulty: 1.8
+Name: Coffee Cup Combo

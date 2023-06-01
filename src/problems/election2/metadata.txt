@@ -1,0 +1,4 @@
+ID: election2
+URL: /problems/election2
+Difficulty: 2.6
+Name: Election

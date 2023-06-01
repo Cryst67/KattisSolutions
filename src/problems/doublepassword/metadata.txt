@@ -1,0 +1,4 @@
+ID: doublepassword
+URL: /problems/doublepassword
+Difficulty: 1.6
+Name: Double Password

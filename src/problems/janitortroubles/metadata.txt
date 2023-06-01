@@ -1,0 +1,4 @@
+ID: janitortroubles
+URL: /problems/janitortroubles
+Difficulty: 1.5
+Name: Janitor Troubles

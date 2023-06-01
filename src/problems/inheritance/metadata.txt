@@ -1,0 +1,4 @@
+ID: inheritance
+URL: /problems/inheritance
+Difficulty: 2.8
+Name: Inheritance

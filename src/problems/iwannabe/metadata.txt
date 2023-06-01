@@ -1,0 +1,4 @@
+ID: iwannabe
+URL: /problems/iwannabe
+Difficulty: 2.6
+Name: I Wanna Be The Very Best

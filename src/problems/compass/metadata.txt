@@ -1,0 +1,4 @@
+ID: compass
+URL: /problems/compass
+Difficulty: 1.9
+Name: Jumbled Compass

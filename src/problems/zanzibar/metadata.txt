@@ -1,0 +1,4 @@
+ID: zanzibar
+URL: /problems/zanzibar
+Difficulty: 1.5
+Name: Stand on Zanzibar

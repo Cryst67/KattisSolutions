@@ -1,0 +1,4 @@
+ID: epigdanceoff
+URL: /problems/epigdanceoff
+Difficulty: 2.1
+Name: EpigDanceOff

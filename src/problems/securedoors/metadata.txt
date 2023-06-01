@@ -1,0 +1,4 @@
+ID: securedoors
+URL: /problems/securedoors
+Difficulty: 1.7
+Name: Secure Doors

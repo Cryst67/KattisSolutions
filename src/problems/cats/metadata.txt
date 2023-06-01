@@ -1,0 +1,4 @@
+ID: cats
+URL: /problems/cats
+Difficulty: 3.8
+Name: A Feast For Cats

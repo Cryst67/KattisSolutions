@@ -1,0 +1,4 @@
+ID: licensetolaunch
+URL: /problems/licensetolaunch
+Difficulty: 1.6
+Name: License to Launch

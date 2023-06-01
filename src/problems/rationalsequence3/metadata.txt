@@ -1,0 +1,4 @@
+ID: rationalsequence3
+URL: /problems/rationalsequence3
+Difficulty: 1.7
+Name: A Rational Sequence (Take 3)

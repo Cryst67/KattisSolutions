@@ -1,0 +1,4 @@
+ID: whichisgreater
+URL: /problems/whichisgreater
+Difficulty: 1.4
+Name: Which is Greater?

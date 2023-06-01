@@ -1,0 +1,4 @@
+ID: tetration
+URL: /problems/tetration
+Difficulty: 1.6
+Name: Tetration

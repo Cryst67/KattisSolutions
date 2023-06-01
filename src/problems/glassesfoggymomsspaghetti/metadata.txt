@@ -1,0 +1,4 @@
+ID: glassesfoggymomsspaghetti
+URL: /problems/glassesfoggymomsspaghetti
+Difficulty: 1.8
+Name: Glasses Foggy, Mom's Spaghetti

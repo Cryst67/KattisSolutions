@@ -1,0 +1,4 @@
+ID: kornislav
+URL: /problems/kornislav
+Difficulty: 1.6
+Name: Kornislav

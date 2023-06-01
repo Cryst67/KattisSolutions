@@ -1,0 +1,4 @@
+ID: fibonaccisum
+URL: /problems/fibonaccisum
+Difficulty: 2.2
+Name: Minimal Fibonacci Sums

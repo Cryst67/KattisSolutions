@@ -1,0 +1,4 @@
+ID: thelastproblem
+URL: /problems/thelastproblem
+Difficulty: 1.6
+Name: The Last Problem

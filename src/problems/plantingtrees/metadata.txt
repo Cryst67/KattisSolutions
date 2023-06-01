@@ -1,0 +1,4 @@
+ID: plantingtrees
+URL: /problems/plantingtrees
+Difficulty: 1.8
+Name: Planting Trees

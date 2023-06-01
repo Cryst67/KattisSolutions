@@ -1,0 +1,4 @@
+ID: missinggnomes
+URL: /problems/missinggnomes
+Difficulty: 3.2
+Name: Missing Gnomes

@@ -1,0 +1,4 @@
+ID: expectedearnings
+URL: /problems/expectedearnings
+Difficulty: 1.9
+Name: Expected Earnings

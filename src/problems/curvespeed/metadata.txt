@@ -1,0 +1,4 @@
+ID: curvespeed
+URL: /problems/curvespeed
+Difficulty: 2.6
+Name: Curve Speed

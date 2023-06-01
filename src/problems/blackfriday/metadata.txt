@@ -1,0 +1,4 @@
+ID: blackfriday
+URL: /problems/blackfriday
+Difficulty: 2.3
+Name: Black Friday

@@ -1,0 +1,4 @@
+ID: heirsdilemma
+URL: /problems/heirsdilemma
+Difficulty: 1.6
+Name: Heir's Dilemma

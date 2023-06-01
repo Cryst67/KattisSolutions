@@ -1,0 +1,4 @@
+ID: esej
+URL: /problems/esej
+Difficulty: 3.2
+Name: Esej

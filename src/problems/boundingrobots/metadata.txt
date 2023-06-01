@@ -1,0 +1,4 @@
+ID: boundingrobots
+URL: /problems/boundingrobots
+Difficulty: 1.7
+Name: Bounding Robots

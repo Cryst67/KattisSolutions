@@ -1,0 +1,4 @@
+ID: multtable
+URL: /problems/multtable
+Difficulty: 3.1 - 3.7
+Name: Multiplication Table

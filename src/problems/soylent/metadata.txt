@@ -1,0 +1,4 @@
+ID: soylent
+URL: /problems/soylent
+Difficulty: 1.7
+Name: Soylent

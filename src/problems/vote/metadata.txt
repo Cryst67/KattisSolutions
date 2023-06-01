@@ -1,0 +1,4 @@
+ID: vote
+URL: /problems/vote
+Difficulty: 1.9
+Name: Popular Vote

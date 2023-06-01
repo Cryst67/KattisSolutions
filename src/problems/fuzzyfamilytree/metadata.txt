@@ -1,0 +1,4 @@
+ID: fuzzyfamilytree
+URL: /problems/fuzzyfamilytree
+Difficulty: 4.3 - 5.0
+Name: Fuzzy Family Tree

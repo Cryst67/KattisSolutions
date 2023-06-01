@@ -1,0 +1,4 @@
+ID: vectorfunctions
+URL: /problems/vectorfunctions
+Difficulty: 2.9
+Name: Vector Functions

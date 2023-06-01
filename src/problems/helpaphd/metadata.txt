@@ -1,0 +1,4 @@
+ID: helpaphd
+URL: /problems/helpaphd
+Difficulty: 1.6
+Name: Help a PhD candidate out!

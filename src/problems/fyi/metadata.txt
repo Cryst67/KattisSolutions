@@ -1,0 +1,4 @@
+ID: fyi
+URL: /problems/fyi
+Difficulty: 1.3
+Name: FYI

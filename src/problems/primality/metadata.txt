@@ -1,0 +1,4 @@
+ID: primality
+URL: /problems/primality
+Difficulty: 2.5 - 5.2
+Name: Primality

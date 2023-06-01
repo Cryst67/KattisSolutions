@@ -1,0 +1,4 @@
+ID: gymleadersterritory
+URL: /problems/gymleadersterritory
+Difficulty: 4.9
+Name: Gym Leader's Territory

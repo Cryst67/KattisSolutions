@@ -1,0 +1,4 @@
+ID: jobbyte
+URL: /problems/jobbyte
+Difficulty: 2.7
+Name: Job Switching

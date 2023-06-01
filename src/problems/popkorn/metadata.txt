@@ -1,0 +1,4 @@
+ID: popkorn
+URL: /problems/popkorn
+Difficulty: 1.4 - 3.4
+Name: Popkorn

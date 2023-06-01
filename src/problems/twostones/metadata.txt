@@ -1,0 +1,4 @@
+ID: twostones
+URL: /problems/twostones
+Difficulty: 1.3
+Name: Take Two Stones

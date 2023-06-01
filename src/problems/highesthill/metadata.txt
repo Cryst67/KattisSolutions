@@ -1,0 +1,4 @@
+ID: highesthill
+URL: /problems/highesthill
+Difficulty: 3.8
+Name: Highest Hill

@@ -1,0 +1,4 @@
+ID: sumsquareddigits
+URL: /problems/sumsquareddigits
+Difficulty: 1.4
+Name: Sum Squared Digits Function

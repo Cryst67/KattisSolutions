@@ -1,0 +1,4 @@
+ID: detaileddifferences
+URL: /problems/detaileddifferences
+Difficulty: 1.4
+Name: Detailed Differences

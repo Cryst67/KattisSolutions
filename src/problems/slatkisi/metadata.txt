@@ -1,0 +1,4 @@
+ID: slatkisi
+URL: /problems/slatkisi
+Difficulty: 2.0
+Name: Slatkisi

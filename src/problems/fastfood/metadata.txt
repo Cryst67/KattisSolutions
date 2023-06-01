@@ -1,0 +1,4 @@
+ID: fastfood
+URL: /problems/fastfood
+Difficulty: 2.0
+Name: Fast Food Prizes

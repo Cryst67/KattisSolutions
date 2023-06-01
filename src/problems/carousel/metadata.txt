@@ -1,0 +1,4 @@
+ID: carousel
+URL: /problems/carousel
+Difficulty: 2.6
+Name: Carousel Rides

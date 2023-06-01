@@ -1,0 +1,4 @@
+ID: eulerian2
+URL: /problems/eulerian2
+Difficulty: 4.0
+Name: Eulerian Graphs 2

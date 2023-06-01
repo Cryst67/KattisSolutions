@@ -1,0 +1,4 @@
+ID: intervalscheduling
+URL: /problems/intervalscheduling
+Difficulty: 1.9
+Name: Interval Scheduling

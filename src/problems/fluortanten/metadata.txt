@@ -1,0 +1,4 @@
+ID: fluortanten
+URL: /problems/fluortanten
+Difficulty: 1.2 - 2.6
+Name: Fluortanten

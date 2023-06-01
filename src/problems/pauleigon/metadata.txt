@@ -1,0 +1,4 @@
+ID: pauleigon
+URL: /problems/pauleigon
+Difficulty: 1.8
+Name: Paul Eigon

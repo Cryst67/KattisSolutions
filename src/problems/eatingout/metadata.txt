@@ -1,0 +1,4 @@
+ID: eatingout
+URL: /problems/eatingout
+Difficulty: 3.9
+Name: Eating Out

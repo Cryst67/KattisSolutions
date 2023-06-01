@@ -1,0 +1,4 @@
+ID: simplesolitaire
+URL: /problems/simplesolitaire
+Difficulty: 4.7
+Name: Simple Solitaire

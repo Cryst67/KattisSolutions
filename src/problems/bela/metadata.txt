@@ -1,0 +1,4 @@
+ID: bela
+URL: /problems/bela
+Difficulty: 1.4
+Name: Bela

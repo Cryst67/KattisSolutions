@@ -1,0 +1,4 @@
+ID: everywhere
+URL: /problems/everywhere
+Difficulty: 1.4
+Name: I've Been Everywhere, Man

@@ -1,0 +1,4 @@
+ID: zebrasocelots
+URL: /problems/zebrasocelots
+Difficulty: 3.1
+Name: Zebras and Ocelots

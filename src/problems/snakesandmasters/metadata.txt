@@ -1,0 +1,4 @@
+ID: snakesandmasters
+URL: /problems/snakesandmasters
+Difficulty: 3.5
+Name: Snakes and Masters

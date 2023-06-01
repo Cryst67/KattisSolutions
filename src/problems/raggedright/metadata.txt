@@ -1,0 +1,4 @@
+ID: raggedright
+URL: /problems/raggedright
+Difficulty: 1.9
+Name: Ragged Right

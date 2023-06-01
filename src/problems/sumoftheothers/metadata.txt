@@ -1,0 +1,4 @@
+ID: sumoftheothers
+URL: /problems/sumoftheothers
+Difficulty: 2.3
+Name: Sum of the Others

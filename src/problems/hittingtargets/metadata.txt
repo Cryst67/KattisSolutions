@@ -1,0 +1,4 @@
+ID: hittingtargets
+URL: /problems/hittingtargets
+Difficulty: 1.6
+Name: Hitting the Targets

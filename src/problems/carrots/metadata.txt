@@ -1,0 +1,4 @@
+ID: carrots
+URL: /problems/carrots
+Difficulty: 1.4
+Name: Solving for Carrots

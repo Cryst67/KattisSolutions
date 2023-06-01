@@ -1,0 +1,4 @@
+ID: karte
+URL: /problems/karte
+Difficulty: 1.6
+Name: Karte

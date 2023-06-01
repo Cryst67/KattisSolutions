@@ -1,0 +1,4 @@
+ID: shatteredcake
+URL: /problems/shatteredcake
+Difficulty: 1.4
+Name: Shattered Cake

@@ -1,0 +1,4 @@
+ID: shortestcompositesum
+URL: /problems/shortestcompositesum
+Difficulty: 4.3
+Name: Shortest Composite Sum

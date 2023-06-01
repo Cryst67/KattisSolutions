@@ -1,0 +1,4 @@
+ID: simone
+URL: /problems/simone
+Difficulty: 1.9
+Name: Simone

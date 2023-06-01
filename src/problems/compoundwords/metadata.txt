@@ -1,0 +1,4 @@
+ID: compoundwords
+URL: /problems/compoundwords
+Difficulty: 1.8
+Name: Compound Words

@@ -1,0 +1,4 @@
+ID: whatdoesthefoxsay
+URL: /problems/whatdoesthefoxsay
+Difficulty: 2.4
+Name: What does the fox say?

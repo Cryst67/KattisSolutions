@@ -1,0 +1,4 @@
+ID: jazzitup
+URL: /problems/jazzitup
+Difficulty: 2.2
+Name: Jazz it Up!

@@ -1,0 +1,4 @@
+ID: laptopsticker
+URL: /problems/laptopsticker
+Difficulty: 1.5
+Name: Laptop Sticker

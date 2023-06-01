@@ -1,0 +1,4 @@
+ID: ratingproblems
+URL: /problems/ratingproblems
+Difficulty: 1.4
+Name: Rating Problems

@@ -1,0 +1,4 @@
+ID: akcija
+URL: /problems/akcija
+Difficulty: 2.3
+Name: Akcija

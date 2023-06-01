@@ -1,0 +1,4 @@
+ID: timeloop
+URL: /problems/timeloop
+Difficulty: 1.4
+Name: Stuck In A Time Loop

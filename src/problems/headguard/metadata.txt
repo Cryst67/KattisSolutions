@@ -1,0 +1,4 @@
+ID: headguard
+URL: /problems/headguard
+Difficulty: 2.1
+Name: Head Guard

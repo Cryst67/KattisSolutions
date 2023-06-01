@@ -1,0 +1,4 @@
+ID: deathtaxes
+URL: /problems/deathtaxes
+Difficulty: 2.9
+Name: Death and Taxes

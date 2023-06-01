@@ -1,0 +1,4 @@
+ID: temperatureconfusion
+URL: /problems/temperatureconfusion
+Difficulty: 2.9
+Name: Temperature Confusion

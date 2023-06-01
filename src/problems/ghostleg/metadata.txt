@@ -1,0 +1,4 @@
+ID: ghostleg
+URL: /problems/ghostleg
+Difficulty: 1.4
+Name: Ghost Leg

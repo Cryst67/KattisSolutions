@@ -1,0 +1,4 @@
+ID: locustlocus
+URL: /problems/locustlocus
+Difficulty: 2.0
+Name: Locust Locus

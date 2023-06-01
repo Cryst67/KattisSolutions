@@ -1,0 +1,4 @@
+ID: reversiblecyclic
+URL: /problems/reversiblecyclic
+Difficulty: 3.3
+Name: Reversibly Cyclic Strings

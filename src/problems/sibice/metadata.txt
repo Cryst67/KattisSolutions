@@ -1,0 +1,4 @@
+ID: sibice
+URL: /problems/sibice
+Difficulty: 1.5
+Name: Sibice

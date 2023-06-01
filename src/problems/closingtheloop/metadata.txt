@@ -1,0 +1,4 @@
+ID: closingtheloop
+URL: /problems/closingtheloop
+Difficulty: 1.7
+Name: Closing the Loop

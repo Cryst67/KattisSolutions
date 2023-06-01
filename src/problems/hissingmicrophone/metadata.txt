@@ -1,0 +1,4 @@
+ID: hissingmicrophone
+URL: /problems/hissingmicrophone
+Difficulty: 1.3
+Name: Hissing Microphone

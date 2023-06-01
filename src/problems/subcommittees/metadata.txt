@@ -1,0 +1,4 @@
+ID: subcommittees
+URL: /problems/subcommittees
+Difficulty: 6.6
+Name: Subcommittees

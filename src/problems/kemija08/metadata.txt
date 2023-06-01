@@ -1,0 +1,4 @@
+ID: kemija08
+URL: /problems/kemija08
+Difficulty: 1.8
+Name: Kemija

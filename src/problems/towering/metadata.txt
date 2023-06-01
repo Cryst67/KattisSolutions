@@ -1,0 +1,4 @@
+ID: towering
+URL: /problems/towering
+Difficulty: 2.3
+Name: A Towering Problem

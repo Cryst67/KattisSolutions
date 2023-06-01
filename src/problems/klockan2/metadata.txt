@@ -1,0 +1,4 @@
+ID: klockan2
+URL: /problems/klockan2
+Difficulty: 1.6 - 1.8
+Name: The Clock

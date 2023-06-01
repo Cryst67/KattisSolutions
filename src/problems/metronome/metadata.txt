@@ -1,0 +1,4 @@
+ID: metronome
+URL: /problems/metronome
+Difficulty: 1.3
+Name: Metronome

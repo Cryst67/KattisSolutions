@@ -1,0 +1,4 @@
+ID: pieceofcake2
+URL: /problems/pieceofcake2
+Difficulty: 1.4
+Name: Piece of Cake!

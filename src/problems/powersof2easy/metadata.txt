@@ -1,0 +1,4 @@
+ID: powersof2easy
+URL: /problems/powersof2easy
+Difficulty: 2.3
+Name: Powers of 2 (Easy)

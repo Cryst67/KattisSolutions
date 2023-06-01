@@ -1,0 +1,4 @@
+ID: mirror
+URL: /problems/mirror
+Difficulty: 1.8
+Name: Mirror Images

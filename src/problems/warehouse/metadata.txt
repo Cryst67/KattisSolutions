@@ -1,0 +1,4 @@
+ID: warehouse
+URL: /problems/warehouse
+Difficulty: 2.1
+Name: Warehouse

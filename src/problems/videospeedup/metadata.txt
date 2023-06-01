@@ -1,0 +1,4 @@
+ID: videospeedup
+URL: /problems/videospeedup
+Difficulty: 1.8
+Name: Video Speedup

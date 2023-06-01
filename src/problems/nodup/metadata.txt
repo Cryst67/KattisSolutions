@@ -1,0 +1,4 @@
+ID: nodup
+URL: /problems/nodup
+Difficulty: 1.5
+Name: No Duplicates

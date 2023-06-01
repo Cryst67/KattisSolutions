@@ -1,0 +1,4 @@
+ID: hangman
+URL: /problems/hangman
+Difficulty: 1.6
+Name: Hangman

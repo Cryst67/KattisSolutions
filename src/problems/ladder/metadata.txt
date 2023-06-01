@@ -1,0 +1,4 @@
+ID: ladder
+URL: /problems/ladder
+Difficulty: 1.5
+Name: Ladder

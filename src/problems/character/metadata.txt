@@ -1,0 +1,4 @@
+ID: character
+URL: /problems/character
+Difficulty: 2.4
+Name: Character Development

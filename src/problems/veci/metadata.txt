@@ -1,0 +1,4 @@
+ID: veci
+URL: /problems/veci
+Difficulty: 1.9
+Name: Veci

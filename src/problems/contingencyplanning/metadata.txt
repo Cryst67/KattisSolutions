@@ -1,0 +1,4 @@
+ID: contingencyplanning
+URL: /problems/contingencyplanning
+Difficulty: 2.2
+Name: Contingency Planning

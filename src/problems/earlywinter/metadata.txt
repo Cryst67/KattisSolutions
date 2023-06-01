@@ -1,0 +1,4 @@
+ID: earlywinter
+URL: /problems/earlywinter
+Difficulty: 1.7
+Name: Early Winter

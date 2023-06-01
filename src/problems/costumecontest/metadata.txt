@@ -1,0 +1,4 @@
+ID: costumecontest
+URL: /problems/costumecontest
+Difficulty: 1.9
+Name: Costume Contest

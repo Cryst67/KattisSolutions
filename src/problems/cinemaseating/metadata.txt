@@ -1,0 +1,4 @@
+ID: cinemaseating
+URL: /problems/cinemaseating
+Difficulty: 2.7
+Name: Cinema Seating

@@ -1,0 +1,4 @@
+ID: racingalphabet
+URL: /problems/racingalphabet
+Difficulty: 1.6
+Name: Racing Around the Alphabet

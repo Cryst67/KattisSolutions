@@ -1,0 +1,4 @@
+ID: temperature
+URL: /problems/temperature
+Difficulty: 2.3
+Name: Time Travelling Temperatures

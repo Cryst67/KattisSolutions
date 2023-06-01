@@ -1,0 +1,4 @@
+ID: prsteni
+URL: /problems/prsteni
+Difficulty: 1.6
+Name: Prsteni

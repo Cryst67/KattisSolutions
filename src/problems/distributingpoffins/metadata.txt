@@ -1,0 +1,4 @@
+ID: distributingpoffins
+URL: /problems/distributingpoffins
+Difficulty: 2.3
+Name: Distributing Poffins

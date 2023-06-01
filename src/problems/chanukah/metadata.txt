@@ -1,0 +1,4 @@
+ID: chanukah
+URL: /problems/chanukah
+Difficulty: 1.4
+Name: Chanukah Challenge

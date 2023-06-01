@@ -1,0 +1,4 @@
+ID: leftbeehind
+URL: /problems/leftbeehind
+Difficulty: 1.7
+Name: Left Beehind

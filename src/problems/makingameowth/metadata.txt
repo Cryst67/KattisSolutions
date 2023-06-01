@@ -1,0 +1,4 @@
+ID: makingameowth
+URL: /problems/makingameowth
+Difficulty: 1.6
+Name: Making A Meowth

@@ -1,0 +1,4 @@
+ID: anotherbrick
+URL: /problems/anotherbrick
+Difficulty: 2.1
+Name: Another Brick in the Wall

@@ -1,0 +1,4 @@
+ID: pyramids
+URL: /problems/pyramids
+Difficulty: 1.4 - 1.5
+Name: Building Pyramids

@@ -1,0 +1,4 @@
+ID: jewelrybox
+URL: /problems/jewelrybox
+Difficulty: 1.7
+Name: Jewelry Box

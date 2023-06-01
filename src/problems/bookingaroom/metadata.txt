@@ -1,0 +1,4 @@
+ID: bookingaroom
+URL: /problems/bookingaroom
+Difficulty: 1.6
+Name: Booking a Room

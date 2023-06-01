@@ -1,0 +1,4 @@
+ID: cookieselection
+URL: /problems/cookieselection
+Difficulty: 4.9
+Name: Cookie Selection

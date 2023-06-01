@@ -1,0 +1,4 @@
+ID: lostlineup
+URL: /problems/lostlineup
+Difficulty: 1.6
+Name: Lost Lineup

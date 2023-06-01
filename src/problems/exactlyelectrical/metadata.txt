@@ -1,0 +1,4 @@
+ID: exactlyelectrical
+URL: /problems/exactlyelectrical
+Difficulty: 2.2
+Name: Exactly Electrical

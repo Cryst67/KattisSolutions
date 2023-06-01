@@ -1,0 +1,4 @@
+ID: magictrick
+URL: /problems/magictrick
+Difficulty: 1.4
+Name: Magic Trick

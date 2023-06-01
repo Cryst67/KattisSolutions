@@ -1,0 +1,4 @@
+ID: zoo
+URL: /problems/zoo
+Difficulty: 1.9
+Name: Un-bear-able Zoo

@@ -1,0 +1,4 @@
+ID: acm
+URL: /problems/acm
+Difficulty: 1.8
+Name: ACM Contest Scoring

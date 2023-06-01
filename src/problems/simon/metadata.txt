@@ -1,0 +1,4 @@
+ID: simon
+URL: /problems/simon
+Difficulty: 2.9
+Name: Simon Says

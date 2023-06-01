@@ -1,0 +1,4 @@
+ID: dualdivisibility
+URL: /problems/dualdivisibility
+Difficulty: 4.7
+Name: Dual Divisibility

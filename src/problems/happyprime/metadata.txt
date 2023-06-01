@@ -1,0 +1,4 @@
+ID: happyprime
+URL: /problems/happyprime
+Difficulty: 2.1
+Name: Happy Happy Prime Prime

@@ -1,0 +1,4 @@
+ID: isithalloween
+URL: /problems/isithalloween
+Difficulty: 1.4
+Name: IsItHalloween.com

@@ -1,0 +1,4 @@
+ID: alphabetspam
+URL: /problems/alphabetspam
+Difficulty: 1.4
+Name: Alphabet Spam

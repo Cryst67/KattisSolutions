@@ -1,0 +1,4 @@
+ID: jackolanternjuxtaposition
+URL: /problems/jackolanternjuxtaposition
+Difficulty: 1.2
+Name: Jack-O'-Lantern Juxtaposition

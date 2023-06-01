@@ -1,0 +1,4 @@
+ID: keytocrypto
+URL: /problems/keytocrypto
+Difficulty: 1.7
+Name: The Key to Cryptography

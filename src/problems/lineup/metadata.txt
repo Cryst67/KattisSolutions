@@ -1,0 +1,4 @@
+ID: lineup
+URL: /problems/lineup
+Difficulty: 1.7
+Name: Line Them Up

@@ -1,0 +1,4 @@
+ID: basicprogramming1
+URL: /problems/basicprogramming1
+Difficulty: 3.9
+Name: Basic Programming 1

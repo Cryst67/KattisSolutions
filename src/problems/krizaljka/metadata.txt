@@ -1,0 +1,4 @@
+ID: krizaljka
+URL: /problems/krizaljka
+Difficulty: 1.8
+Name: Križaljka

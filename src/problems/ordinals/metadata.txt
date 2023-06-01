@@ -1,0 +1,4 @@
+ID: ordinals
+URL: /problems/ordinals
+Difficulty: 1.7
+Name: Ordinals

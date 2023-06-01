@@ -1,0 +1,4 @@
+ID: bishops
+URL: /problems/bishops
+Difficulty: 2.2
+Name: Bishops

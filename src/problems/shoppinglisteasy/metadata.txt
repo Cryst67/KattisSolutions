@@ -1,0 +1,4 @@
+ID: shoppinglisteasy
+URL: /problems/shoppinglisteasy
+Difficulty: 2.0
+Name: Shopping List (Easy)

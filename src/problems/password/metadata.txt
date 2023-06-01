@@ -1,0 +1,4 @@
+ID: password
+URL: /problems/password
+Difficulty: 2.2
+Name: Password Hacking

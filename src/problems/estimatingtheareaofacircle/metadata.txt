@@ -1,0 +1,4 @@
+ID: estimatingtheareaofacircle
+URL: /problems/estimatingtheareaofacircle
+Difficulty: 1.5
+Name: Estimating the Area of a Circle

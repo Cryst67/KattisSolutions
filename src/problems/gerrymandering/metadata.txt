@@ -1,0 +1,4 @@
+ID: gerrymandering
+URL: /problems/gerrymandering
+Difficulty: 1.6
+Name: Gerrymandering

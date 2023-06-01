@@ -1,0 +1,4 @@
+ID: everythingisanail
+URL: /problems/everythingisanail
+Difficulty: 5.5
+Name: Everything Is A Nail

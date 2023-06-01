@@ -1,0 +1,4 @@
+ID: sumkindofproblem
+URL: /problems/sumkindofproblem
+Difficulty: 1.8
+Name: Sum Kind of Problem

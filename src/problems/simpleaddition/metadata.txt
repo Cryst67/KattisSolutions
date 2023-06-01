@@ -1,0 +1,4 @@
+ID: simpleaddition
+URL: /problems/simpleaddition
+Difficulty: 2.2
+Name: Simple Addition

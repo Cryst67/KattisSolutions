@@ -1,0 +1,4 @@
+ID: addingtrouble
+URL: /problems/addingtrouble
+Difficulty: 1.4
+Name: Adding Trouble

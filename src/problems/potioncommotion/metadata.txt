@@ -1,0 +1,4 @@
+ID: potioncommotion
+URL: /problems/potioncommotion
+Difficulty: 3.9
+Name: Potion Commotion

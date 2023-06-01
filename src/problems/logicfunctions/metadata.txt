@@ -1,0 +1,4 @@
+ID: logicfunctions
+URL: /problems/logicfunctions
+Difficulty: 1.5
+Name: Logic Functions

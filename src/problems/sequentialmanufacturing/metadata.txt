@@ -1,0 +1,4 @@
+ID: sequentialmanufacturing
+URL: /problems/sequentialmanufacturing
+Difficulty: 3.0
+Name: Sequential Manufacturing

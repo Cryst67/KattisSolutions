@@ -1,0 +1,4 @@
+ID: divvyingup
+URL: /problems/divvyingup
+Difficulty: 1.6
+Name: Divvying Up

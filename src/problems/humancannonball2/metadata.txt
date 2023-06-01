@@ -1,0 +1,4 @@
+ID: humancannonball2
+URL: /problems/humancannonball2
+Difficulty: 1.6
+Name: The Amazing Human Cannonball

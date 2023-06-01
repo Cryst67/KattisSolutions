@@ -1,0 +1,4 @@
+ID: eyeofsauron
+URL: /problems/eyeofsauron
+Difficulty: 1.4
+Name: Eye of Sauron

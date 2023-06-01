@@ -1,0 +1,4 @@
+ID: beekeeper
+URL: /problems/beekeeper
+Difficulty: 2.6
+Name: Beekeeper

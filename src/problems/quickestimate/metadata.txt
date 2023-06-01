@@ -1,0 +1,4 @@
+ID: quickestimate
+URL: /problems/quickestimate
+Difficulty: 1.6
+Name: Quick Estimates

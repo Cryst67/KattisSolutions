@@ -1,0 +1,4 @@
+ID: musicalscales
+URL: /problems/musicalscales
+Difficulty: 1.7
+Name: Musical Scales

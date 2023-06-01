@@ -1,0 +1,4 @@
+ID: froshweek2
+URL: /problems/froshweek2
+Difficulty: 2.2
+Name: Frosh Week

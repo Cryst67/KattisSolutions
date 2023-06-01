@@ -1,0 +1,4 @@
+ID: planina
+URL: /problems/planina
+Difficulty: 1.4
+Name: Planina

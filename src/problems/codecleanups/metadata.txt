@@ -1,0 +1,4 @@
+ID: codecleanups
+URL: /problems/codecleanups
+Difficulty: 2.8
+Name: Code Cleanups

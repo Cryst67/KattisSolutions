@@ -1,0 +1,4 @@
+ID: patuljci
+URL: /problems/patuljci
+Difficulty: 1.8
+Name: Patuljci

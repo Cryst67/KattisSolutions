@@ -1,0 +1,4 @@
+ID: powers
+URL: /problems/powers
+Difficulty: 4.9
+Name: Powers and Modulus

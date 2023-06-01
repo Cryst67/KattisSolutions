@@ -1,0 +1,4 @@
+ID: huntthewumpus
+URL: /problems/huntthewumpus
+Difficulty: 2.2
+Name: Hunt the Wumpus

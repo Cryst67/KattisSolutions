@@ -1,0 +1,4 @@
+ID: aboveaverage
+URL: /problems/aboveaverage
+Difficulty: 2.3
+Name: Above Average

@@ -1,0 +1,4 @@
+ID: speedrun
+URL: /problems/speedrun
+Difficulty: 2.3
+Name: Speedrun

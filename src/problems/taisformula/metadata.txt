@@ -1,0 +1,4 @@
+ID: taisformula
+URL: /problems/taisformula
+Difficulty: 1.6
+Name: Tai's formula

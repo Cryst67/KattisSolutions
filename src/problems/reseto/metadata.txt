@@ -1,0 +1,4 @@
+ID: reseto
+URL: /problems/reseto
+Difficulty: 2.4
+Name: Reseto
