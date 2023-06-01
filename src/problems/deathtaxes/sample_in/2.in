@@ -1,0 +1,6 @@
+buy 10 10
+buy 30 5
+sell 31 8
+split 2
+merge 8
+die 42
