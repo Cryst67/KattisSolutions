@@ -1,12 +1,4 @@
-# N,M,P=map(int,input().split());a=input().split();h=N
-# for n in map(int,a):
-#  while h<=n and P>0:P-=1;h+=20
-#  h=min(n,N)
-#  h-=n
-# if h<1:print('next time')
-# else:print('champion')
 
-import pprint
 n = int(input())
 l = list(map(int, input().split()))
 
