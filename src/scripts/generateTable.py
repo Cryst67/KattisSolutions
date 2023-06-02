@@ -29,7 +29,7 @@ for problem in problem_dirs:
         solution_links.append(solution_link)
     table_rows.append(f"| {problem_link} | {' '.join(solution_links)} |")
 
-with open('TABLE.md', 'a') as f:
+with open('TABLE.md', 'w') as f:
     f.write("\n| Problem | Solutions |\n")
     f.write("| --- | --- |\n")
     for row in table_rows:
