@@ -1,0 +1,1 @@
+n=gets.to_i;f=[];n.times{f<<gets.split.map(&:to_i)};m=a=0;(0...n).each{|i|(i+1...n).each{|j|(j+1...n).each{|k|s=f[i][j]*f[i][k]*f[j][k];(m=s;a=[i+1,j+1,k+1])if s>m}}};puts"#{a[0]} #{a[1]} #{a[2]}"

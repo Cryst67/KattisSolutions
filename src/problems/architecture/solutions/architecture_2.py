@@ -1,0 +1,7 @@
+r, c = map(int, input().split())
+xrs = list(map(int, input().split()))
+xcs = list(map(int, input().split()))
+rmax = max(xrs)
+cmax = max(xcs)
+if rmax == cmax: print('possible')
+else: print('impossible')
